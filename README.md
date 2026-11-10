@@ -1,4 +1,4 @@
-# Kurbanlik Takip ve Dijital Pazarlik Otomasyon Sistemi (V1.0)
+# Çiftlik Takip ve Çiftlik Hayvanları Dijital Pazarlik Otomasyon Sistemi (V1.0)
 
 ASP.NET Core MVC mimarisi kullanılarak geliştirilmiş, canlı hayvan envanter yönetimini, borsa fiyat analitiğini ve alıcı-satıcı arasındaki pazarlık süreçlerini uçtan uca dijitalleştiren kurumsal bir ERP yazılımıdır.
 
@@ -32,5 +32,5 @@ Sistem, geleneksel hayvancılık ticaretindeki veri kayıplarını, küpe numara
 
 ### 1. Projeyi Klonlayın
 ```bash
-git clone [https://github.com/Mtryn0748/Kurban_borsas-.git](https://github.com/Mtryn0748/Kurban_borsas-.git)
-cd Kurban_borsas-
+git clone [https://github.com/Mtryn0748/Net_Core_farm_project-.git](https://github.com/Mtryn0748/Kurban_borsas-.git)
+cd Net_Core_farm_project
